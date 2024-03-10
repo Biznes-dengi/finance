@@ -47,7 +47,7 @@ class DepositFundProcessTest {
 
     // Создание списка deposits и добавление в него созданных объектов
     List<Deposit> deposits = new ArrayList<>();
-//    Посмотреть разницу мок и спай!!!
+
 
     @Test
     @DisplayName("Normal input data")
